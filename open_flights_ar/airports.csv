@@ -1,0 +1,37 @@
+airport_id,name,city,country,iata,icao,latitude,longitude,altitude,timezone,dst,tz_database,type,source
+2501,Comandante Espora Airport,Bahia Blanca,Argentina,BHI,SAZB,-38.725,-62.1693,246,-3.0,N,America/Buenos_Aires,airport,OurAirports
+2442,Jorge Newbery Airpark,Buenos Aires,Argentina,AEP,SABE,-34.5592,-58.4156,18,-3.0,N,America/Buenos_Aires,airport,OurAirports
+3988,Ministro Pistarini International Airport,Buenos Aires,Argentina,EZE,SAEZ,-34.8222,-58.5358,67,-3.0,N,America/Buenos_Aires,airport,OurAirports
+2455,Catamarca Airport,Catamarca,Argentina,CTC,SANC,-28.5956001282,-65.751701355,1522,-3.0,N,America/Catamarca,airport,OurAirports
+2487,General E. Mosconi Airport,Comodoro Rivadavia,Argentina,CRD,SAVC,-45.7853,-67.4655,189,-3.0,N,America/Catamarca,airport,OurAirports
+2443,Ingeniero Ambrosio Taravella Airport,Cordoba,Argentina,COR,SACO,-31.323601,-64.208,1604,-3.0,N,America/Cordoba,airport,OurAirports
+4061,El Calafate Airport,El Calafate,Argentina,FTE,SAWC,-50.2803,-72.053101,669,-3.0,N,America/Argentina/Rio_Gallegos,airport,OurAirports
+2488,Brigadier Antonio Parodi Airport,Esquel,Argentina,EQS,SAVE,-42.908000946,-71.139503479,2621,-3.0,N,America/Catamarca,airport,OurAirports
+2470,Formosa Airport,Formosa,Argentina,FMA,SARF,-26.2127,-58.2281,193,-3.0,N,America/Cordoba,airport,OurAirports
+2471,Cataratas Del Iguazú International Airport,Iguazu Falls,Argentina,IGR,SARI,-25.737301,-54.4734,916,-3.0,N,America/Cordoba,airport,OurAirports
+2477,Gobernador Horacio Guzman International Airport,Jujuy,Argentina,JUJ,SASJ,-24.392799,-65.097801,3019,-3.0,N,America/Jujuy,airport,OurAirports
+2458,Capitan V A Almonacid Airport,La Rioja,Argentina,IRJ,SANL,-29.3815994263,-66.7957992554,1437,-3.0,N,America/Argentina/La_Rioja,airport,OurAirports
+2508,Ástor Piazzola International Airport,Mar Del Plata,Argentina,MDQ,SAZM,-37.9342,-57.5733,72,-3.0,N,America/Buenos_Aires,airport,OurAirports
+2452,El Plumerillo Airport,Mendoza,Argentina,MDZ,SAME,-32.8316993713,-68.7929000854,2310,-3.0,N,America/Mendoza,airport,OurAirports
+2509,Presidente Peron Airport,Neuquen,Argentina,NQN,SAZN,-38.949001,-68.155701,895,-3.0,N,America/Argentina/Salta,airport,OurAirports
+2439,General Urquiza Airport,Parana,Argentina,PRA,SAAP,-31.7948,-60.4804,242,-3.0,N,America/Cordoba,airport,OurAirports
+2474,Libertador Gral D Jose De San Martin Airport,Posadas,Argentina,PSS,SARP,-27.3858,-55.9707,430,-3.0,N,America/Cordoba,airport,OurAirports
+2492,El Tehuelche Airport,Puerto Madryn,Argentina,PMY,SAVY,-42.7592,-65.1027,427,-3.0,N,America/Catamarca,airport,OurAirports
+2469,Resistencia International Airport,Resistencia,Argentina,RES,SARE,-27.45,-59.0561,173,-3.0,N,America/Cordoba,airport,OurAirports
+2496,Piloto Civil N. Fernández Airport,Rio Gallegos,Argentina,RGL,SAWG,-51.6089,-69.3126,61,-3.0,N,America/Argentina/Rio_Gallegos,airport,OurAirports
+2495,Hermes Quijada International Airport,Rio Grande,Argentina,RGA,SAWE,-53.7777,-67.7494,65,-3.0,N,America/Argentina/Ushuaia,airport,OurAirports
+8914,Termas de Río Hondo international Airport,Rio Hondo,Argentina,RHD,SANR,-27.4966,-64.93595,935,-3.0,S,America/Cordoba,airport,OurAirports
+2440,Islas Malvinas Airport,Rosario,Argentina,ROS,SAAR,-32.9036,-60.785,85,-3.0,N,America/Cordoba,airport,OurAirports
+2476,Martin Miguel De Guemes International Airport,Salta,Argentina,SLA,SASA,-24.8560009003,-65.4861984253,4088,-3.0,N,America/Argentina/Salta,airport,OurAirports
+2513,San Carlos De Bariloche Airport,San Carlos De Bariloche,Argentina,BRC,SAZS,-41.151199,-71.157501,2774,-3.0,N,America/Argentina/Salta,airport,OurAirports
+2461,Domingo Faustino Sarmiento Airport,San Juan,Argentina,UAQ,SANU,-31.571501,-68.418198,1958,-3.0,N,America/Argentina/San_Juan,airport,OurAirports
+2467,Brigadier Mayor D Cesar Raul Ojeda Airport,San Luis,Argentina,LUQ,SAOU,-33.2732009888,-66.3563995361,2328,-3.0,N,America/Argentina/San_Luis,airport,OurAirports
+2517,Aviador C. Campos Airport,San Martin Des Andes,Argentina,CPC,SAZY,-40.075401,-71.137299,2569,-3.0,N,America/Argentina/Salta,airport,OurAirports
+2454,Suboficial Ay Santiago Germano Airport,San Rafael,Argentina,AFA,SAMR,-34.588299,-68.4039,2470,-3.0,N,America/Mendoza,airport,OurAirports
+2441,Sauce Viejo Airport,Santa Fe,Argentina,SFN,SAAV,-31.7117,-60.8117,55,-3.0,N,America/Cordoba,airport,OurAirports
+2512,Santa Rosa Airport,Santa Rosa,Argentina,RSA,SAZR,-36.588299,-64.275703,630,-3.0,N,America/Argentina/Salta,airport,OurAirports
+2456,Vicecomodoro Angel D. La Paz Aragonés Airport,Santiago Del Estero,Argentina,SDE,SANE,-27.7655563354,-64.3099975586,656,-3.0,N,America/Cordoba,airport,OurAirports
+2490,Almirante Marco Andres Zar Airport,Trelew,Argentina,REL,SAVT,-43.2105,-65.2703,141,-3.0,N,America/Catamarca,airport,OurAirports
+2460,Teniente Benjamin Matienzo Airport,Tucuman,Argentina,TUC,SANT,-26.8409,-65.104897,1493,-3.0,N,America/Argentina/Tucuman,airport,OurAirports
+2497,Malvinas Argentinas Airport,Ushuaia,Argentina,USH,SAWH,-54.8433,-68.2958,102,-3.0,N,America/Argentina/Ushuaia,airport,OurAirports
+2491,Gobernador Castello Airport,Viedma,Argentina,VDM,SAVV,-40.8692,-63.0004,20,-3.0,N,America/Argentina/Salta,airport,OurAirports
