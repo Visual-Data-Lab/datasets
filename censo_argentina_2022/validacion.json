@@ -1,0 +1,311 @@
+{
+  "provincias": 24,
+  "unidades_subprovinciales": 529,
+  "variables_resumen": 110,
+  "poblacion_total": 45892285,
+  "controles": {
+    "ok": 4215,
+    "sin_dato": 442
+  },
+  "desconocidos": 0,
+  "fuentes": 625,
+  "cobertura": [
+    {
+      "tabla": "edad_mediana",
+      "registros": 551,
+      "provincias": 24,
+      "unidades_subprovinciales": 527,
+      "unidades_sin_registros": 2,
+      "codigos_sin_registros": "94021,94028"
+    },
+    {
+      "tabla": "edad_residencia",
+      "registros": 67344,
+      "provincias": 24,
+      "unidades_subprovinciales": 528,
+      "unidades_sin_registros": 1,
+      "codigos_sin_registros": "94021"
+    },
+    {
+      "tabla": "edad_sexo",
+      "registros": 67344,
+      "provincias": 24,
+      "unidades_subprovinciales": 528,
+      "unidades_sin_registros": 1,
+      "codigos_sin_registros": "94021"
+    },
+    {
+      "tabla": "educacion_asistencia",
+      "registros": 181830,
+      "provincias": 24,
+      "unidades_subprovinciales": 527,
+      "unidades_sin_registros": 2,
+      "codigos_sin_registros": "94021,94028"
+    },
+    {
+      "tabla": "educacion_nivel_actual",
+      "registros": 82650,
+      "provincias": 24,
+      "unidades_subprovinciales": 527,
+      "unidades_sin_registros": 2,
+      "codigos_sin_registros": "94021,94028"
+    },
+    {
+      "tabla": "educacion_nivel_alcanzado",
+      "registros": 72732,
+      "provincias": 24,
+      "unidades_subprovinciales": 527,
+      "unidades_sin_registros": 2,
+      "codigos_sin_registros": "94021,94028"
+    },
+    {
+      "tabla": "hogares_habitaciones_banos",
+      "registros": 6061,
+      "provincias": 24,
+      "unidades_subprovinciales": 527,
+      "unidades_sin_registros": 2,
+      "codigos_sin_registros": "94021,94028"
+    },
+    {
+      "tabla": "hogares_materiales",
+      "registros": 6611,
+      "provincias": 24,
+      "unidades_subprovinciales": 527,
+      "unidades_sin_registros": 2,
+      "codigos_sin_registros": "94021,94028"
+    },
+    {
+      "tabla": "hogares_tenencia",
+      "registros": 551,
+      "provincias": 24,
+      "unidades_subprovinciales": 527,
+      "unidades_sin_registros": 2,
+      "codigos_sin_registros": "94021,94028"
+    },
+    {
+      "tabla": "indice_dependencia_padres_historico",
+      "registros": 552,
+      "provincias": 24,
+      "unidades_subprovinciales": 527,
+      "unidades_sin_registros": 2,
+      "codigos_sin_registros": "94021,94028"
+    },
+    {
+      "tabla": "indice_dependencia_potencial_historico",
+      "registros": 552,
+      "provincias": 24,
+      "unidades_subprovinciales": 527,
+      "unidades_sin_registros": 2,
+      "codigos_sin_registros": "94021,94028"
+    },
+    {
+      "tabla": "indice_envejecimiento_historico",
+      "registros": 552,
+      "provincias": 24,
+      "unidades_subprovinciales": 527,
+      "unidades_sin_registros": 2,
+      "codigos_sin_registros": "94021,94028"
+    },
+    {
+      "tabla": "indice_feminidad_65_mas_historico",
+      "registros": 552,
+      "provincias": 24,
+      "unidades_subprovinciales": 527,
+      "unidades_sin_registros": 2,
+      "codigos_sin_registros": "94021,94028"
+    },
+    {
+      "tabla": "poblacion_intercensal",
+      "registros": 552,
+      "provincias": 24,
+      "unidades_subprovinciales": 527,
+      "unidades_sin_registros": 2,
+      "codigos_sin_registros": "94021,94028"
+    },
+    {
+      "tabla": "poblacion_sexo_residencia",
+      "registros": 1656,
+      "provincias": 24,
+      "unidades_subprovinciales": 528,
+      "unidades_sin_registros": 1,
+      "codigos_sin_registros": "94021"
+    },
+    {
+      "tabla": "porcentaje_65_mas_historico",
+      "registros": 552,
+      "provincias": 24,
+      "unidades_subprovinciales": 527,
+      "unidades_sin_registros": 2,
+      "codigos_sin_registros": "94021,94028"
+    },
+    {
+      "tabla": "porcentaje_80_mas_historico",
+      "registros": 552,
+      "provincias": 24,
+      "unidades_subprovinciales": 527,
+      "unidades_sin_registros": 2,
+      "codigos_sin_registros": "94021,94028"
+    },
+    {
+      "tabla": "servicios_agua",
+      "registros": 3857,
+      "provincias": 24,
+      "unidades_subprovinciales": 527,
+      "unidades_sin_registros": 2,
+      "codigos_sin_registros": "94021,94028"
+    },
+    {
+      "tabla": "servicios_combustible",
+      "registros": 551,
+      "provincias": 24,
+      "unidades_subprovinciales": 527,
+      "unidades_sin_registros": 2,
+      "codigos_sin_registros": "94021,94028"
+    },
+    {
+      "tabla": "servicios_conectividad",
+      "registros": 1653,
+      "provincias": 24,
+      "unidades_subprovinciales": 527,
+      "unidades_sin_registros": 2,
+      "codigos_sin_registros": "94021,94028"
+    },
+    {
+      "tabla": "servicios_sanitarios",
+      "registros": 10465,
+      "provincias": 24,
+      "unidades_subprovinciales": 527,
+      "unidades_sin_registros": 2,
+      "codigos_sin_registros": "94021,94028"
+    },
+    {
+      "tabla": "superficie_densidad",
+      "registros": 552,
+      "provincias": 24,
+      "unidades_subprovinciales": 527,
+      "unidades_sin_registros": 2,
+      "codigos_sin_registros": "94021,94028"
+    },
+    {
+      "tabla": "viviendas_hogares",
+      "registros": 551,
+      "provincias": 24,
+      "unidades_subprovinciales": 527,
+      "unidades_sin_registros": 2,
+      "codigos_sin_registros": "94021,94028"
+    },
+    {
+      "tabla": "viviendas_ocupacion",
+      "registros": 553,
+      "provincias": 24,
+      "unidades_subprovinciales": 529,
+      "unidades_sin_registros": 0,
+      "codigos_sin_registros": ""
+    },
+    {
+      "tabla": "viviendas_tipo",
+      "registros": 551,
+      "provincias": 24,
+      "unidades_subprovinciales": 527,
+      "unidades_sin_registros": 2,
+      "codigos_sin_registros": "94021,94028"
+    }
+  ],
+  "diferencias": [],
+  "union_geografica": {
+    "provincias": 24,
+    "departamentos_partidos_comunas": 529,
+    "codigos_sin_geometria": [],
+    "geometrias_sin_codigo": []
+  },
+  "archivos_principales": {
+    "provincias_completo.csv": {
+      "filas": 24,
+      "columnas": 125
+    },
+    "provincias_resumen.csv": {
+      "filas": 24,
+      "columnas": 29
+    },
+    "departamentos_completo.csv": {
+      "filas": 529,
+      "columnas": 128
+    },
+    "departamentos_resumen.csv": {
+      "filas": 529,
+      "columnas": 32
+    }
+  },
+  "columnas_originales_preservadas": [
+    "codigo",
+    "provincia",
+    "poblacion",
+    "varones",
+    "mujeres",
+    "vivienda_particular",
+    "vivienda_colectiva",
+    "situacion_calle"
+  ],
+  "rangos_edad": {
+    "universo": "poblacion_en_viviendas_particulares",
+    "porcentajes_escala": "0 a 100",
+    "precision_decimales": 6,
+    "territorios_validados": 551,
+    "territorios_sin_porcentajes": [
+      "94021",
+      "94028"
+    ],
+    "rangos": [
+      [
+        "0_5",
+        0,
+        5
+      ],
+      [
+        "6_11",
+        6,
+        11
+      ],
+      [
+        "12_17",
+        12,
+        17
+      ],
+      [
+        "18_29",
+        18,
+        29
+      ],
+      [
+        "30_44",
+        30,
+        44
+      ],
+      [
+        "45_64",
+        45,
+        64
+      ],
+      [
+        "65_79",
+        65,
+        79
+      ],
+      [
+        "80_mas",
+        80,
+        null
+      ]
+    ]
+  },
+  "versiones": {
+    "resumen": "Selección de identificación y 27 estadísticas comparables.",
+    "completo": "Todas las columnas de la versión amplia anterior más las variables necesarias para los nuevos indicadores.",
+    "columnas_anteriores_preservadas": {
+      "provincias": 120,
+      "departamentos": 123
+    },
+    "asistencia_6_17_territorios_validados": 551,
+    "porcentajes_derivados": "Numerador / denominador por 100; vacíos conservados si no se publica una entrada o el denominador es cero."
+  }
+}
